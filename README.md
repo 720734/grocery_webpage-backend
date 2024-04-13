@@ -1,6 +1,6 @@
 # grocery_webpage-backend
 
-grocery_webpage-backend(Backend: Python and Flask,Database: mysql)
+grocery_webpage
 In this python project, I build a grocery store backend database application. It has  2 tier application,
 Backend: Python and Flask
 Database: mysq
